@@ -1,0 +1,16 @@
+.bg {
+    background: rgb(249, 226, 236);
+background: radial-gradient(circle, rgb(250, 222, 234) 0%, rgb(209, 221, 235) 100%);
+}
+
+.centering {
+    text-align: center;
+}
+
+.p-20 {
+    padding: 200px;
+}
+
+.pt-4 {
+    padding-top: 40px;
+}
